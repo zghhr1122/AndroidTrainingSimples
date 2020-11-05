@@ -1,4 +1,4 @@
-### Android Training Simples
+### Android Training Simples，动画城及viewpager嵌套
 
 
 **不定期更新中...**
